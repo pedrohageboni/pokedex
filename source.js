@@ -1,7 +1,7 @@
 const { useState, useEffect, useCallback, useRef } = React;
 
 const API   = 'https://pokeapi.co/api/v2';
-const LIMIT = 40;
+const LIMIT = 9999;
 
 const TYPES = [
   'normal','fire','water','grass','electric','ice',

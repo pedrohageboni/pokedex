@@ -8,7 +8,7 @@
 [![React](https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![PokéAPI](https://img.shields.io/badge/PokéAPI-v2-ef5350?style=for-the-badge)](https://pokeapi.co)
 
-![preview](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
+![preview](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png)
 
 </div>
 

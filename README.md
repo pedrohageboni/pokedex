@@ -18,7 +18,7 @@
 
 - 🔍 **Busca em tempo real** por nome ou número
 - 🏷️ **Filtro por tipo** — 18 tipos com cores únicas
-- ♾️ **Paginação** — carrega 40 Pokémon por vez
+- ♾️ **Paginação** — carrega todos os Pokémon de uma vez
 - 📋 **Modal de detalhes** com stats animados, habilidades, altura e peso
 - 📱 **Layout responsivo** para mobile e desktop
 - ⚡ **Requests paralelos** para carregamento rápido

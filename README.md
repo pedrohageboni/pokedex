@@ -87,6 +87,6 @@ Todos os requests de detalhe são feitos em paralelo com `Promise.all`, minimiza
 
 <div align="center">
 
-Feito com ❤️ por [Pedro Hageboni](https://github.com/pedrohageboni)
+Feito com amor por [Pedro Hage](https://github.com/pedrohageboni)
 
 </div>
